@@ -13,8 +13,6 @@ CSS Flexbox & Grid: Utilizes Flexbox and CSS Grid for a modern layout structure.
 Clean Code Structure: HTML and CSS are organized for readability and maintainability.
 Technologies Used
 HTML5: For structuring the content.
-CSS3: For styling and layout, including Flexbox and Grid.
-Getting Started
-To get a local copy up and running, follow these steps:</p>
+CSS3: For styling and layout, including Flexbox and Grid.</p>
 
 Feel free to customize further if you add more features or pages!
