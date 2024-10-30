@@ -2,11 +2,11 @@
 <p>This project is a clone of the Myntra website, built using HTML and CSS. The purpose of this project is to replicate the front-end design and structure of Myntra, showcasing responsive design and modern CSS techniques.</p>
 
 <h3>
-  Project Link
+  Project Link :
 </h3>
-<p>You can view the live version of this project <a href="https://creative-tanuki-8714cb.netlify.app/">here</a></p>
+<p>You can view the live version of this project <a href="https://kruppatel31.github.io/Myntra/">here</a></p>
 
-<h4>Features</h4>
+<h4>Features : </h4>
 <p>Home Page: A fully designed home page similar to the Myntra landing page.
 Responsive Layout: Adjusts to various screen sizes for a seamless experience on desktops and mobiles.
 CSS Flexbox & Grid: Utilizes Flexbox and CSS Grid for a modern layout structure.
