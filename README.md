@@ -4,7 +4,7 @@
 <h3>
   Project Link
 </h3>
-<p>You can view the live version of this project here.</p>
+<p>You can view the live version of this project <a href="https://creative-tanuki-8714cb.netlify.app/">here</a></p>
 
 <h4>Features</h4>
 <p>Home Page: A fully designed home page similar to the Myntra landing page.
