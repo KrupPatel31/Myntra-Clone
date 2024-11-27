@@ -17,6 +17,30 @@ header {
   border-bottom: 1px solid #b6b1b1;
 }
 
+@media (max-width: 1000px) {
+  header {
+    flex-direction: column;
+    height: auto;
+  }
+  .action_bar {
+    margin: 10px;
+  }
+
+  .nav_bar {
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    text-align: center;
+  }
+
+  .search_bar {
+    margin: 10px;
+  }
+  .logo_container {
+    left: 50%;
+  }
+}
+
 .myntra_home {
   height: 45px;
 }
