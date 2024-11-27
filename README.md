@@ -4,7 +4,7 @@
 <h3>
   Project Link :
 </h3>
-<p>You can view the live version of this project <a href="https://kruppatel31.github.io/Myntra/">here</a></p>
+<p>You can view the live version of this project <a href="https://kruppatel31.github.io/Myntra-Clone/">here</a></p>
 
 <h4>Features : </h4>
 <p>Home Page: A fully designed home page similar to the Myntra landing page.
